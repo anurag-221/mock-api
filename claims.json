@@ -1,0 +1,330 @@
+{
+  "count": 20,
+  "next": null,
+  "previous": 0,
+  "results": [
+    {
+      "id": "1000017237925",
+      "claim_number": "1000017237925",
+      "claim_status": "Approved",
+      "service_date": "2024-04-17",
+      "patient_responsibility_amount": 560.40,
+      "patient": {
+        "name": {
+          "first_name": "John",
+          "last_name": "Smith"
+        }
+      },
+      "facility_information": {
+        "facility_name": "St. Mary's Hospital"
+      },
+      "claim_type": "medical"
+    },
+    {
+      "id": "388626134732293506",
+      "claim_number": "388626134732293506",
+      "claim_status": "Pending",
+      "service_date": "2024-04-18",
+      "patient_responsibility_amount": 25.50,
+      "patient": {
+        "name": {
+          "first_name": "Sarah",
+          "last_name": "Johnson"
+        }
+      },
+      "facility_information": {
+        "facility_name": "CVS Pharmacy"
+      },
+      "claim_type": "rx"
+    },
+    {
+      "id": "58476329373276",
+      "claim_number": "5847632937326",
+      "claim_status": "Denied",
+      "service_date": "2024-04-19",
+      "patient_responsibility_amount": 150.00,
+      "patient": {
+        "name": {
+          "first_name": "Michael",
+          "last_name": "Williams"
+        }
+      },
+      "facility_information": {
+        "facility_name": "City Clinic"
+      },
+      "claim_type": "medical"
+    },
+    {
+      "id": "142217234732293522",
+      "claim_number": "142217234732293522",
+      "claim_status": "Approved",
+      "service_date": "2024-04-20",
+      "patient_responsibility_amount": 45.75,
+      "patient": {
+        "name": {
+          "first_name": "Emily",
+          "last_name": "Brown"
+        }
+      },
+      "facility_information": {
+        "facility_name": "Walgreens"
+      },
+      "claim_type": "rx"
+    },
+    {
+      "id": "276548392847562",
+      "claim_number": "276548392847562",
+      "claim_status": "Pending",
+      "service_date": "2024-04-21",
+      "patient_responsibility_amount": 200.00,
+      "patient": {
+        "name": {
+          "first_name": "David",
+          "last_name": "Davis"
+        }
+      },
+      "facility_information": {
+        "facility_name": "General Hospital"
+      },
+      "claim_type": "medical"
+    },
+    {
+      "id": "847291047392847",
+      "claim_number": "847291047392847",
+      "claim_status": "Approved",
+      "service_date": "2024-04-22",
+      "patient_responsibility_amount": 35.00,
+      "patient": {
+        "name": {
+          "first_name": "Jessica",
+          "last_name": "Miller"
+        }
+      },
+      "facility_information": {
+        "facility_name": "Local Pharmacy"
+      },
+      "claim_type": "rx"
+    },
+    {
+      "id": "592847102938472",
+      "claim_number": "592847102938472",
+      "claim_status": "Denied",
+      "service_date": "2024-04-23",
+      "patient_responsibility_amount": 500.00,
+      "patient": {
+        "name": {
+          "first_name": "Robert",
+          "last_name": "Wilson"
+        }
+      },
+      "facility_information": {
+        "facility_name": "Medical Center"
+      },
+      "claim_type": "medical"
+    },
+    {
+      "id": "729384756201938",
+      "claim_number": "729384756201938",
+      "claim_status": "Approved",
+      "service_date": "2024-04-24",
+      "patient_responsibility_amount": 15.99,
+      "patient": {
+        "name": {
+          "first_name": "Lisa",
+          "last_name": "Moore"
+        }
+      },
+      "facility_information": {
+        "facility_name": "Target Pharmacy"
+      },
+      "claim_type": "rx"
+    },
+    {
+      "id": "192837465023847",
+      "claim_number": "192837465023847",
+      "claim_status": "Pending",
+      "service_date": "2024-04-25",
+      "patient_responsibility_amount": 325.50,
+      "patient": {
+        "name": {
+          "first_name": "James",
+          "last_name": "Taylor"
+        }
+      },
+      "facility_information": {
+        "facility_name": "Community Hospital"
+      },
+      "claim_type": "medical"
+    },
+    {
+      "id": "384920384756203",
+      "claim_number": "384920384756203",
+      "claim_status": "Approved",
+      "service_date": "2024-04-26",
+      "patient_responsibility_amount": 50.00,
+      "patient": {
+        "name": {
+          "first_name": "Patricia",
+          "last_name": "Anderson"
+        }
+      },
+      "facility_information": {
+        "facility_name": "Express Pharmacy"
+      },
+      "claim_type": "rx"
+    },
+    {
+      "id": "758293847562938",
+      "claim_number": "758293847562938",
+      "claim_status": "Denied",
+      "service_date": "2024-04-27",
+      "patient_responsibility_amount": 275.00,
+      "patient": {
+        "name": {
+          "first_name": "Christopher",
+          "last_name": "Thomas"
+        }
+      },
+      "facility_information": {
+        "facility_name": "Health Clinic"
+      },
+      "claim_type": "medical"
+    },
+    {
+      "id": "201938475629384",
+      "claim_number": "201938475629384",
+      "claim_status": "Approved",
+      "service_date": "2024-04-28",
+      "patient_responsibility_amount": 22.50,
+      "patient": {
+        "name": {
+          "first_name": "Jennifer",
+          "last_name": "Jackson"
+        }
+      },
+      "facility_information": {
+        "facility_name": "Rite Aid"
+      },
+      "claim_type": "rx"
+    },
+    {
+      "id": "948302847562938",
+      "claim_number": "948302847562938",
+      "claim_status": "Pending",
+      "service_date": "2024-04-29",
+      "patient_responsibility_amount": 400.00,
+      "patient": {
+        "name": {
+          "first_name": "Matthew",
+          "last_name": "White"
+        }
+      },
+      "facility_information": {
+        "facility_name": "Regional Medical Center"
+      },
+      "claim_type": "medical"
+    },
+    {
+      "id": "374829384756293",
+      "claim_number": "374829384756293",
+      "claim_status": "Approved",
+      "service_date": "2024-04-30",
+      "patient_responsibility_amount": 30.75,
+      "patient": {
+        "name": {
+          "first_name": "Linda",
+          "last_name": "Harris"
+        }
+      },
+      "facility_information": {
+        "facility_name": "Neighborhood Pharmacy"
+      },
+      "claim_type": "rx"
+    },
+    {
+      "id": "829384756293847",
+      "claim_number": "829384756293847",
+      "claim_status": "Denied",
+      "service_date": "2024-05-01",
+      "patient_responsibility_amount": 600.00,
+      "patient": {
+        "name": {
+          "first_name": "Daniel",
+          "last_name": "Martin"
+        }
+      },
+      "facility_information": {
+        "facility_name": "Urgent Care Center"
+      },
+      "claim_type": "medical"
+    },
+    {
+      "id": "293847562938475",
+      "claim_number": "293847562938475",
+      "claim_status": "Approved",
+      "service_date": "2024-05-02",
+      "patient_responsibility_amount": 18.00,
+      "patient": {
+        "name": {
+          "first_name": "Barbara",
+          "last_name": "Thompson"
+        }
+      },
+      "facility_information": {
+        "facility_name": "MedExpress Pharmacy"
+      },
+      "claim_type": "rx"
+    },
+    {
+      "id": "756293847562938",
+      "claim_number": "756293847562938",
+      "claim_status": "Pending",
+      "service_date": "2024-05-03",
+      "patient_responsibility_amount": 350.25,
+      "patient": {
+        "name": {
+          "first_name": "Joseph",
+          "last_name": "Garcia"
+        }
+      },
+      "facility_information": {
+        "facility_name": "Premier Hospital"
+      },
+      "claim_type": "medical"
+    },
+    {
+      "id": "384756293847562",
+      "claim_number": "384756293847562",
+      "claim_status": "Approved",
+      "service_date": "2024-05-04",
+      "patient_responsibility_amount": 55.50,
+      "patient": {
+        "name": {
+          "first_name": "Maria",
+          "last_name": "Rodriguez"
+        }
+      },
+      "facility_information": {
+        "facility_name": "Family Pharmacy"
+      },
+      "claim_type": "rx"
+    },
+    {
+      "id": "562938475629384",
+      "claim_number": "562938475629384",
+      "claim_status": "Denied",
+      "service_date": "2024-05-05",
+      "patient_responsibility_amount": 450.00,
+      "patient": {
+        "name": {
+          "first_name": "Charles",
+          "last_name": "Lee"
+        }
+      },
+      "facility_information": {
+        "facility_name": "Downtown Clinic"
+      },
+      "claim_type": "medical"
+    }
+  ]
+}
