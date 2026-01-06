@@ -18,7 +18,7 @@
       "facility_information": {
         "facility_name": "LIVE WELL PHARMACY"
       },
-      "claim_type": "rx"
+      "claim_type": "rex"
     },
     {
       "id": "147049813009493782",
@@ -69,7 +69,7 @@
       "facility_information": {
         "facility_name": "U-SAVE PHARMACY"
       },
-      "claim_type": "rx"
+      "claim_type": "drx"
     },
     {
       "id": "959578043748493154",
