@@ -1,0 +1,117 @@
+{
+  "count": 13,
+  "next": 2,
+  "previous": 0,
+  "results": [
+    {
+      "id": "559336",
+      "transaction_type": "Payment",
+      "billing_account_id": "374310213200",
+      "amount": "10",
+      "date": "2026-01-23",
+      "payment_method_id": 2,
+      "payment_method_display_name": "EFT (ACH or Wire)",
+      "bill_status": "",
+      "bill_doc_id": ""
+    },
+    {
+      "id": "559335",
+      "transaction_type": "Payment",
+      "billing_account_id": "374310213200",
+      "amount": "300",
+      "date": "2026-01-21",
+      "payment_method_id": 2,
+      "payment_method_display_name": "EFT (ACH or Wire)",
+      "bill_status": "",
+      "bill_doc_id": ""
+    },
+    {
+      "id": "1156305",
+      "transaction_type": "Invoice",
+      "billing_account_id": "374310213200",
+      "amount": "329.88",
+      "date": "2026-01-09",
+      "payment_method_id": "",
+      "payment_method_display_name": "",
+      "bill_status": "open",
+      "bill_doc_id": ""
+    },
+    {
+      "id": "424942",
+      "transaction_type": "Payment",
+      "billing_account_id": "374310213200",
+      "amount": "329.88",
+      "date": "2025-12-14",
+      "payment_method_id": 2,
+      "payment_method_display_name": "EFT (ACH or Wire)",
+      "bill_status": "",
+      "bill_doc_id": ""
+    },
+    {
+      "id": "987465",
+      "transaction_type": "Invoice",
+      "billing_account_id": "374310213200",
+      "amount": "329.88",
+      "date": "2025-12-10",
+      "payment_method_id": "",
+      "payment_method_display_name": "",
+      "bill_status": "paid",
+      "bill_doc_id": ""
+    },
+    {
+      "id": "350950",
+      "transaction_type": "Payment",
+      "billing_account_id": "374310213200",
+      "amount": "270.51",
+      "date": "2025-12-01",
+      "payment_method_id": 2,
+      "payment_method_display_name": "EFT (ACH or Wire)",
+      "bill_status": "",
+      "bill_doc_id": ""
+    },
+    {
+      "id": "1954556",
+      "transaction_type": "Invoice",
+      "billing_account_id": "374310213200",
+      "amount": "2705.1",
+      "date": "2025-11-10",
+      "payment_method_id": "",
+      "payment_method_display_name": "",
+      "bill_status": "paid",
+      "bill_doc_id": ""
+    },
+    {
+      "id": "879490",
+      "transaction_type": "Invoice",
+      "billing_account_id": "374310213200",
+      "amount": "270.51",
+      "date": "2025-11-10",
+      "payment_method_id": "",
+      "payment_method_display_name": "",
+      "bill_status": "paid",
+      "bill_doc_id": ""
+    },
+    {
+      "id": "132938",
+      "transaction_type": "Payment",
+      "billing_account_id": "374310213200",
+      "amount": "270.51",
+      "date": "2025-10-17",
+      "payment_method_id": 2,
+      "payment_method_display_name": "EFT (ACH or Wire)",
+      "bill_status": "",
+      "bill_doc_id": ""
+    },
+    {
+      "id": "685279",
+      "transaction_type": "Invoice",
+      "billing_account_id": "374310213200",
+      "amount": "0",
+      "date": "2025-10-11",
+      "payment_method_id": "",
+      "payment_method_display_name": "",
+      "bill_status": "paid",
+      "bill_doc_id": ""
+    }
+  ]
+}
