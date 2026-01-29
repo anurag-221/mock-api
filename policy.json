@@ -4,740 +4,177 @@
   "previous": 0,
   "results": [
     {
-      "id": "3017924644",
-      "policy_number": "3017924644",
+      "id": "3040549372",
+      "policy_number": "3040549372",
       "policy_status": "active",
-      "effective_date": "2025-01-01",
+      "effective_date": "2024-08-01",
       "termination_date": "2026-12-31",
       "market_segment": "individual",
-      "cardId": "3017924644",
+      "cardId": "3040549372",
       "group": {
-        "id": "C00005",
-        "number": "C00005",
-        "company_name": "Medica IFB NE"
+        "id": "C00007",
+        "number": "C00007",
+        "company_name": "Medica IFB MO"
       },
       "product_coverages": [
         {
-          "product_coverage_id": "a91c0907d7e1e1bb09496d1883e852e4",
+          "product_coverage_id": "a01d63ff7b1a84f50c6a544fb4b2f779",
           "product_coverage_type": "medical",
-          "effective_date": "2024-12-01",
-          "termination_date": "2024-12-31",
-          "status_code": "inactive",
-          "status_display": "Inactive",
-          "plan_id": "MIC_CIFBNEFI01-HRCATE_C00005|2024",
-          "external_plan_id": "MIC_CIFBNEFI01-HRCATE_C00005",
-          "external_plan_name": "Medica with CHI Health Bronze C NE",
-          "member_coverages": [
-            {
-              "member_coverage_id": "347adb98a1782826dbddc46f938917ad",
-              "effective_date": "2024-12-01",
-              "termination_date": "2024-12-31",
-              "member": {
-                "id": "MED000006224415",
-                "member_display_identifier": "3017924644",
-                "name": {
-                  "first_name": "Georgeta",
-                  "middle_name": "",
-                  "last_name": "Degracia"
-                },
-                "status": "inactive",
-                "gender": "female",
-                "birth_date": "1990-02-16",
-                "relationship_to_subscriber": "self",
-                "subscriber_number": "301792464400",
-                "addresses": [
-                  {
-                    "address_type": "physical",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  },
-                  {
-                    "address_type": "mailing",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  }
-                ],
-                "phone_numbers": [
-                  {
-                    "id": "",
-                    "phone_number": "4028365365",
-                    "type": "home"
-                  }
-                ],
-                "email_address": "Piedad_Gallagos@example.com",
-                "is_push_notification_enabled": false
-              }
-            },
-            {
-              "member_coverage_id": "d34a9883b8cabaa326096e05f2dac9fb",
-              "effective_date": "2024-12-01",
-              "termination_date": "2024-12-31",
-              "member": {
-                "id": "MED000006224416",
-                "member_display_identifier": "3017924644",
-                "name": {
-                  "first_name": "Innocent",
-                  "middle_name": "",
-                  "last_name": "Degracia"
-                },
-                "status": "inactive",
-                "gender": "male",
-                "birth_date": "1987-09-26",
-                "relationship_to_subscriber": "spouse",
-                "subscriber_number": "301792464400",
-                "addresses": [
-                  {
-                    "address_type": "physical",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  },
-                  {
-                    "address_type": "mailing",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  }
-                ],
-                "phone_numbers": [
-                  {
-                    "id": "",
-                    "phone_number": "4028365365",
-                    "type": "home"
-                  }
-                ],
-                "email_address": "Piedad_Gallagos@example.com",
-                "is_push_notification_enabled": false
-              }
-            },
-            {
-              "member_coverage_id": "c4fe8af2faea8366a0d4b7bc4bb92412",
-              "effective_date": "2024-12-01",
-              "termination_date": "2024-12-31",
-              "member": {
-                "id": "MED000006224417",
-                "member_display_identifier": "3017924644",
-                "name": {
-                  "first_name": "Innocent",
-                  "middle_name": "",
-                  "last_name": "Degracia"
-                },
-                "status": "inactive",
-                "gender": "male",
-                "birth_date": "2009-09-22",
-                "relationship_to_subscriber": "child",
-                "subscriber_number": "301792464400",
-                "addresses": [
-                  {
-                    "address_type": "physical",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  },
-                  {
-                    "address_type": "mailing",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  }
-                ],
-                "phone_numbers": [
-                  {
-                    "id": "",
-                    "phone_number": "4028365365",
-                    "type": "home"
-                  }
-                ],
-                "email_address": "Piedad_Gallagos@example.com",
-                "is_push_notification_enabled": false
-              }
-            },
-            {
-              "member_coverage_id": "0ac1bc3aff77fdf5402b11ef2679547f",
-              "effective_date": "2024-12-01",
-              "termination_date": "2024-12-31",
-              "member": {
-                "id": "MED000006224418",
-                "member_display_identifier": "3017924644",
-                "name": {
-                  "first_name": "Bonita",
-                  "middle_name": "",
-                  "last_name": "Degracia"
-                },
-                "status": "inactive",
-                "gender": "male",
-                "birth_date": "2014-10-28",
-                "relationship_to_subscriber": "child",
-                "subscriber_number": "301792464400",
-                "addresses": [
-                  {
-                    "address_type": "physical",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  },
-                  {
-                    "address_type": "mailing",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  }
-                ],
-                "phone_numbers": [
-                  {
-                    "id": "",
-                    "phone_number": "4028365365",
-                    "type": "home"
-                  }
-                ],
-                "email_address": "Piedad_Gallagos@example.com",
-                "is_push_notification_enabled": false
-              }
-            },
-            {
-              "member_coverage_id": "fbb3207ae7ac90814f2260c9af8553c7",
-              "effective_date": "2024-12-01",
-              "termination_date": "2024-12-31",
-              "member": {
-                "id": "MED000006224419",
-                "member_display_identifier": "3017924644",
-                "name": {
-                  "first_name": "Vishva",
-                  "middle_name": "",
-                  "last_name": "Degracia"
-                },
-                "status": "inactive",
-                "gender": "male",
-                "birth_date": "2015-10-21",
-                "relationship_to_subscriber": "child",
-                "subscriber_number": "301792464400",
-                "addresses": [
-                  {
-                    "address_type": "physical",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  },
-                  {
-                    "address_type": "mailing",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  }
-                ],
-                "phone_numbers": [
-                  {
-                    "id": "",
-                    "phone_number": "4028365365",
-                    "type": "home"
-                  }
-                ],
-                "email_address": "Piedad_Gallagos@example.com",
-                "is_push_notification_enabled": false
-              }
-            },
-            {
-              "member_coverage_id": "a56e0bf16165fb5e85593928d6347f85",
-              "effective_date": "2024-12-01",
-              "termination_date": "2024-12-31",
-              "member": {
-                "id": "MED000006224420",
-                "member_display_identifier": "3017924644",
-                "name": {
-                  "first_name": "Joselyne",
-                  "middle_name": "",
-                  "last_name": "Degracia"
-                },
-                "status": "inactive",
-                "gender": "male",
-                "birth_date": "2016-10-12",
-                "relationship_to_subscriber": "child",
-                "subscriber_number": "301792464400",
-                "addresses": [
-                  {
-                    "address_type": "physical",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  },
-                  {
-                    "address_type": "mailing",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  }
-                ],
-                "phone_numbers": [
-                  {
-                    "id": "",
-                    "phone_number": "4028365365",
-                    "type": "home"
-                  }
-                ],
-                "email_address": "Piedad_Gallagos@example.com",
-                "is_push_notification_enabled": false
-              }
-            },
-            {
-              "member_coverage_id": "fc6a6b28c5b0bbbb7ec0fe32225de4e2",
-              "effective_date": "2024-12-01",
-              "termination_date": "2024-12-31",
-              "member": {
-                "id": "MED000006224421",
-                "member_display_identifier": "3017924644",
-                "name": {
-                  "first_name": "Cathern",
-                  "middle_name": "",
-                  "last_name": "Degracia"
-                },
-                "status": "inactive",
-                "gender": "female",
-                "birth_date": "2018-01-15",
-                "relationship_to_subscriber": "child",
-                "subscriber_number": "301792464400",
-                "addresses": [
-                  {
-                    "address_type": "physical",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  },
-                  {
-                    "address_type": "mailing",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  }
-                ],
-                "phone_numbers": [
-                  {
-                    "id": "",
-                    "phone_number": "4028365365",
-                    "type": "home"
-                  }
-                ],
-                "email_address": "Piedad_Gallagos@example.com",
-                "is_push_notification_enabled": false
-              }
-            }
-          ]
-        },
-        {
-          "product_coverage_id": "f899f64ad8134dd6ef1e46f6b87acaa1",
-          "product_coverage_type": "medical",
-          "effective_date": "2025-01-01",
+          "effective_date": "2024-08-01",
           "termination_date": "2026-12-31",
           "status_code": "active",
           "status_display": "Active",
-          "plan_id": "MIC_CIFBNEFI01-HRCATE_C00005|2025",
-          "external_plan_id": "MIC_CIFBNEFI01-HRCATE_C00005",
-          "external_plan_name": "Medica with CHI Health + AEE Bronze C PC NE",
+          "plan_id": "MIC_CIFBMOFI02-HRCATE_C00007|2024",
+          "external_plan_id": "MIC_CIFBMOFI02-HRCATE_C00007",
+          "external_plan_name": "Medica with MU Bronze E ST MO",
           "member_coverages": [
             {
-              "member_coverage_id": "12df3f054f181db79389d61ed7c901e9",
-              "effective_date": "2025-01-01",
+              "member_coverage_id": "9912dc83e36f6a3ae00625a5442a2c08",
+              "effective_date": "2024-08-01",
               "termination_date": "2026-12-31",
               "member": {
-                "id": "MED000006224415",
-                "member_display_identifier": "3017924644",
+                "id": "MED000005854121",
+                "member_display_identifier": "3040549372",
                 "name": {
-                  "first_name": "Georgeta",
-                  "middle_name": "",
-                  "last_name": "Degracia"
+                  "first_name": "Michael",
+                  "middle_name": "S",
+                  "last_name": "Guerrero"
                 },
                 "status": "active",
-                "gender": "female",
-                "birth_date": "1990-02-16",
+                "gender": "male",
+                "birth_date": "1985-04-22",
                 "relationship_to_subscriber": "self",
-                "subscriber_number": "301792464400",
+                "subscriber_number": "304054937200",
                 "addresses": [
                   {
                     "address_type": "physical",
-                    "street_name_1": "75 ROBERT",
+                    "street_name_1": "31170 Red Arrow Rd",
                     "street_name_2": "",
                     "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
+                    "city_name": "Rocky Mount",
+                    "zip_code": "65072",
+                    "state": "MO",
+                    "county_name": "Morgan"
                   },
                   {
                     "address_type": "mailing",
-                    "street_name_1": "75 ROBERT",
+                    "street_name_1": "22652 Beacon Rd",
                     "street_name_2": "",
                     "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
+                    "city_name": "Eldon",
+                    "zip_code": "65026",
+                    "state": "MO",
+                    "county_name": "Miller"
                   }
                 ],
                 "phone_numbers": [
                   {
                     "id": "",
-                    "phone_number": "4028365365",
+                    "phone_number": "5622332539",
                     "type": "home"
                   }
                 ],
-                "email_address": "Piedad_Gallagos@example.com",
+                "email_address": "",
                 "is_push_notification_enabled": false
               }
             },
             {
-              "member_coverage_id": "9c734b13569cf5f57e04f135c8656623",
-              "effective_date": "2025-01-01",
+              "member_coverage_id": "203fc3711c66a734e9ef11ca0313bd32",
+              "effective_date": "2024-08-01",
               "termination_date": "2026-12-31",
               "member": {
-                "id": "MED000006224416",
-                "member_display_identifier": "3017924644",
+                "id": "MED000005854122",
+                "member_display_identifier": "3040549372",
                 "name": {
-                  "first_name": "Innocent",
-                  "middle_name": "",
-                  "last_name": "Degracia"
-                },
-                "status": "active",
-                "gender": "male",
-                "birth_date": "1987-09-26",
-                "relationship_to_subscriber": "spouse",
-                "subscriber_number": "301792464400",
-                "addresses": [
-                  {
-                    "address_type": "physical",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  },
-                  {
-                    "address_type": "mailing",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  }
-                ],
-                "phone_numbers": [
-                  {
-                    "id": "",
-                    "phone_number": "4028365365",
-                    "type": "home"
-                  }
-                ],
-                "email_address": "Piedad_Gallagos@example.com",
-                "is_push_notification_enabled": false
-              }
-            },
-            {
-              "member_coverage_id": "1d6e3235d5b432ed81c776c3fde4ff5b",
-              "effective_date": "2025-01-01",
-              "termination_date": "2026-12-31",
-              "member": {
-                "id": "MED000006224417",
-                "member_display_identifier": "3017924644",
-                "name": {
-                  "first_name": "Innocent",
-                  "middle_name": "",
-                  "last_name": "Degracia"
-                },
-                "status": "active",
-                "gender": "male",
-                "birth_date": "2009-09-22",
-                "relationship_to_subscriber": "child",
-                "subscriber_number": "301792464400",
-                "addresses": [
-                  {
-                    "address_type": "physical",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  },
-                  {
-                    "address_type": "mailing",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  }
-                ],
-                "phone_numbers": [
-                  {
-                    "id": "",
-                    "phone_number": "4028365365",
-                    "type": "home"
-                  }
-                ],
-                "email_address": "Piedad_Gallagos@example.com",
-                "is_push_notification_enabled": false
-              }
-            },
-            {
-              "member_coverage_id": "971d436d810d31ab7191c26d5f09d864",
-              "effective_date": "2025-01-01",
-              "termination_date": "2026-12-31",
-              "member": {
-                "id": "MED000006224418",
-                "member_display_identifier": "3017924644",
-                "name": {
-                  "first_name": "Bonita",
-                  "middle_name": "",
-                  "last_name": "Degracia"
-                },
-                "status": "active",
-                "gender": "male",
-                "birth_date": "2014-10-28",
-                "relationship_to_subscriber": "child",
-                "subscriber_number": "301792464400",
-                "addresses": [
-                  {
-                    "address_type": "physical",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  },
-                  {
-                    "address_type": "mailing",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  }
-                ],
-                "phone_numbers": [
-                  {
-                    "id": "",
-                    "phone_number": "4028365365",
-                    "type": "home"
-                  }
-                ],
-                "email_address": "Piedad_Gallagos@example.com",
-                "is_push_notification_enabled": false
-              }
-            },
-            {
-              "member_coverage_id": "b3bcefec449368e3f19cba5369787f1e",
-              "effective_date": "2025-01-01",
-              "termination_date": "2026-12-31",
-              "member": {
-                "id": "MED000006224419",
-                "member_display_identifier": "3017924644",
-                "name": {
-                  "first_name": "Vishva",
-                  "middle_name": "",
-                  "last_name": "Degracia"
-                },
-                "status": "active",
-                "gender": "male",
-                "birth_date": "2015-10-21",
-                "relationship_to_subscriber": "child",
-                "subscriber_number": "301792464400",
-                "addresses": [
-                  {
-                    "address_type": "physical",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  },
-                  {
-                    "address_type": "mailing",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  }
-                ],
-                "phone_numbers": [
-                  {
-                    "id": "",
-                    "phone_number": "4028365365",
-                    "type": "home"
-                  }
-                ],
-                "email_address": "Piedad_Gallagos@example.com",
-                "is_push_notification_enabled": false
-              }
-            },
-            {
-              "member_coverage_id": "485d7b016a8639187707396a53a5cf6d",
-              "effective_date": "2025-01-01",
-              "termination_date": "2026-12-31",
-              "member": {
-                "id": "MED000006224420",
-                "member_display_identifier": "3017924644",
-                "name": {
-                  "first_name": "Joselyne",
-                  "middle_name": "",
-                  "last_name": "Degracia"
-                },
-                "status": "active",
-                "gender": "male",
-                "birth_date": "2016-10-12",
-                "relationship_to_subscriber": "child",
-                "subscriber_number": "301792464400",
-                "addresses": [
-                  {
-                    "address_type": "physical",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  },
-                  {
-                    "address_type": "mailing",
-                    "street_name_1": "75 ROBERT",
-                    "street_name_2": "",
-                    "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
-                  }
-                ],
-                "phone_numbers": [
-                  {
-                    "id": "",
-                    "phone_number": "4028365365",
-                    "type": "home"
-                  }
-                ],
-                "email_address": "Piedad_Gallagos@example.com",
-                "is_push_notification_enabled": false
-              }
-            },
-            {
-              "member_coverage_id": "43ebe46c2d80c4fd227c5e155b4ddcf0",
-              "effective_date": "2025-01-01",
-              "termination_date": "2026-12-31",
-              "member": {
-                "id": "MED000006224421",
-                "member_display_identifier": "3017924644",
-                "name": {
-                  "first_name": "Cathern",
-                  "middle_name": "",
-                  "last_name": "Degracia"
+                  "first_name": "Geena",
+                  "middle_name": "O",
+                  "last_name": "Guerrero"
                 },
                 "status": "active",
                 "gender": "female",
-                "birth_date": "2018-01-15",
-                "relationship_to_subscriber": "child",
-                "subscriber_number": "301792464400",
+                "birth_date": "1994-04-04",
+                "relationship_to_subscriber": "spouse",
+                "subscriber_number": "304054937200",
                 "addresses": [
                   {
                     "address_type": "physical",
-                    "street_name_1": "75 ROBERT",
+                    "street_name_1": "31170 Red Arrow Rd",
                     "street_name_2": "",
                     "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
+                    "city_name": "Rocky Mount",
+                    "zip_code": "65072",
+                    "state": "MO",
+                    "county_name": "Morgan"
                   },
                   {
                     "address_type": "mailing",
-                    "street_name_1": "75 ROBERT",
+                    "street_name_1": "22652 Beacon Rd",
                     "street_name_2": "",
                     "street_name_3": "",
-                    "city_name": "Omaha",
-                    "zip_code": "68130",
-                    "state": "NE",
-                    "county_name": "Douglas"
+                    "city_name": "Eldon",
+                    "zip_code": "65026",
+                    "state": "MO",
+                    "county_name": "Miller"
                   }
                 ],
                 "phone_numbers": [
                   {
                     "id": "",
-                    "phone_number": "4028365365",
+                    "phone_number": "5622332539",
                     "type": "home"
                   }
                 ],
-                "email_address": "Piedad_Gallagos@example.com",
+                "email_address": "",
+                "is_push_notification_enabled": false
+              }
+            },
+            {
+              "member_coverage_id": "3a1e3045ee9117f6f1701378a1fc62af",
+              "effective_date": "2024-08-01",
+              "termination_date": "2026-12-31",
+              "member": {
+                "id": "MED000005854123",
+                "member_display_identifier": "3040549372",
+                "name": {
+                  "first_name": "Michael",
+                  "middle_name": "L",
+                  "last_name": "Guerrero"
+                },
+                "status": "active",
+                "gender": "male",
+                "birth_date": "2024-04-09",
+                "relationship_to_subscriber": "child",
+                "subscriber_number": "304054937200",
+                "addresses": [
+                  {
+                    "address_type": "physical",
+                    "street_name_1": "31170 Red Arrow Rd",
+                    "street_name_2": "",
+                    "street_name_3": "",
+                    "city_name": "Rocky Mount",
+                    "zip_code": "65072",
+                    "state": "MO",
+                    "county_name": "Morgan"
+                  },
+                  {
+                    "address_type": "mailing",
+                    "street_name_1": "22652 Beacon Rd",
+                    "street_name_2": "",
+                    "street_name_3": "",
+                    "city_name": "Eldon",
+                    "zip_code": "65026",
+                    "state": "MO",
+                    "county_name": "Miller"
+                  }
+                ],
+                "phone_numbers": [
+                  {
+                    "id": "",
+                    "phone_number": "5622332539",
+                    "type": "home"
+                  }
+                ],
+                "email_address": "",
                 "is_push_notification_enabled": false
               }
             }
@@ -747,9 +184,9 @@
       "additional_identifiers": [
         "IFB",
         "PERSONALIZED_DASH",
-        "C00005",
-        "C00005_0169",
-        "CIFBNEFI01"
+        "C00007",
+        "C00007_0061",
+        "CIFBMOFI02"
       ]
     }
   ]
