@@ -1,0 +1,193 @@
+{
+  "count": 1,
+  "next": 0,
+  "previous": 0,
+  "results": [
+    {
+      "id": "3040549372",
+      "policy_number": "3040549372",
+      "policy_status": "active",
+      "effective_date": "2024-08-01",
+      "termination_date": "2026-12-31",
+      "market_segment": "individual",
+      "cardId": "3040549372",
+      "group": {
+        "id": "C00007",
+        "number": "C00007",
+        "company_name": "Medica IFB MO"
+      },
+      "product_coverages": [
+        {
+          "product_coverage_id": "a01d63ff7b1a84f50c6a544fb4b2f779",
+          "product_coverage_type": "medical",
+          "effective_date": "2024-08-01",
+          "termination_date": "2026-12-31",
+          "status_code": "active",
+          "status_display": "Active",
+          "plan_id": "MIC_CIFBMOFI02-HRCATE_C00007|2024",
+          "external_plan_id": "MIC_CIFBMOFI02-HRCATE_C00007",
+          "external_plan_name": "Medica with MU Bronze E ST MO",
+          "member_coverages": [
+            {
+              "member_coverage_id": "9912dc83e36f6a3ae00625a5442a2c08",
+              "effective_date": "2024-08-01",
+              "termination_date": "2026-12-31",
+              "member": {
+                "id": "MED000005854121",
+                "member_display_identifier": "3040549372",
+                "name": {
+                  "first_name": "Michael",
+                  "middle_name": "S",
+                  "last_name": "Guerrero"
+                },
+                "status": "active",
+                "gender": "male",
+                "birth_date": "1985-04-22",
+                "relationship_to_subscriber": "self",
+                "subscriber_number": "304054937200",
+                "addresses": [
+                  {
+                    "address_type": "physical",
+                    "street_name_1": "31170 Red Arrow Rd",
+                    "street_name_2": "",
+                    "street_name_3": "",
+                    "city_name": "Rocky Mount",
+                    "zip_code": "65072",
+                    "state": "MO",
+                    "county_name": "Morgan"
+                  },
+                  {
+                    "address_type": "mailing",
+                    "street_name_1": "22652 Beacon Rd",
+                    "street_name_2": "",
+                    "street_name_3": "",
+                    "city_name": "Eldon",
+                    "zip_code": "65026",
+                    "state": "MO",
+                    "county_name": "Miller"
+                  }
+                ],
+                "phone_numbers": [
+                  {
+                    "id": "",
+                    "phone_number": "5622332539",
+                    "type": "home"
+                  }
+                ],
+                "email_address": "",
+                "is_push_notification_enabled": false
+              }
+            },
+            {
+              "member_coverage_id": "203fc3711c66a734e9ef11ca0313bd32",
+              "effective_date": "2024-08-01",
+              "termination_date": "2026-12-31",
+              "member": {
+                "id": "MED000005854122",
+                "member_display_identifier": "3040549372",
+                "name": {
+                  "first_name": "Geena",
+                  "middle_name": "O",
+                  "last_name": "Guerrero"
+                },
+                "status": "active",
+                "gender": "female",
+                "birth_date": "1994-04-04",
+                "relationship_to_subscriber": "spouse",
+                "subscriber_number": "304054937200",
+                "addresses": [
+                  {
+                    "address_type": "physical",
+                    "street_name_1": "31170 Red Arrow Rd",
+                    "street_name_2": "",
+                    "street_name_3": "",
+                    "city_name": "Rocky Mount",
+                    "zip_code": "65072",
+                    "state": "MO",
+                    "county_name": "Morgan"
+                  },
+                  {
+                    "address_type": "mailing",
+                    "street_name_1": "22652 Beacon Rd",
+                    "street_name_2": "",
+                    "street_name_3": "",
+                    "city_name": "Eldon",
+                    "zip_code": "65026",
+                    "state": "MO",
+                    "county_name": "Miller"
+                  }
+                ],
+                "phone_numbers": [
+                  {
+                    "id": "",
+                    "phone_number": "5622332539",
+                    "type": "home"
+                  }
+                ],
+                "email_address": "",
+                "is_push_notification_enabled": false
+              }
+            },
+            {
+              "member_coverage_id": "3a1e3045ee9117f6f1701378a1fc62af",
+              "effective_date": "2024-08-01",
+              "termination_date": "2026-12-31",
+              "member": {
+                "id": "MED000005854123",
+                "member_display_identifier": "3040549372",
+                "name": {
+                  "first_name": "Michael",
+                  "middle_name": "L",
+                  "last_name": "Guerrero"
+                },
+                "status": "active",
+                "gender": "male",
+                "birth_date": "2024-04-09",
+                "relationship_to_subscriber": "child",
+                "subscriber_number": "304054937200",
+                "addresses": [
+                  {
+                    "address_type": "physical",
+                    "street_name_1": "31170 Red Arrow Rd",
+                    "street_name_2": "",
+                    "street_name_3": "",
+                    "city_name": "Rocky Mount",
+                    "zip_code": "65072",
+                    "state": "MO",
+                    "county_name": "Morgan"
+                  },
+                  {
+                    "address_type": "mailing",
+                    "street_name_1": "22652 Beacon Rd",
+                    "street_name_2": "",
+                    "street_name_3": "",
+                    "city_name": "Eldon",
+                    "zip_code": "65026",
+                    "state": "MO",
+                    "county_name": "Miller"
+                  }
+                ],
+                "phone_numbers": [
+                  {
+                    "id": "",
+                    "phone_number": "5622332539",
+                    "type": "home"
+                  }
+                ],
+                "email_address": "",
+                "is_push_notification_enabled": false
+              }
+            }
+          ]
+        }
+      ],
+      "additional_identifiers": [
+        "IFB",
+        "PERSONALIZED_DASH",
+        "C00007",
+        "C00007_0061",
+        "CIFBMOFI02"
+      ]
+    }
+  ]
+}
