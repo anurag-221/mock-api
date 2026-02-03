@@ -1,0 +1,29 @@
+{
+  "count": 1,
+  "next": 0,
+  "previous": 0,
+  "results": [
+    {
+      "id": "301792464400",
+      "owner_type": "member",
+      "owner_id": "301792464400",
+      "display_name": "Medical",
+      "status": "active",
+      "total_amount_due": "109",
+      "is_payment_allowed": true,
+      "is_autopay_allowed": true,
+      "is_autopay_enabled": false,
+      "next_due_date": "2024-12-31",
+      "billing_frequency_display": "monthly",
+      "paid_through_date": "2023-12-31",
+      "products_billed": [
+        {
+          "external_plan_name": "Medica with CHI Health + AEE Bronze C PC NE",
+          "group_number": "C00005",
+          "amount_due": "109",
+          "policy_id": "3017924644"
+        }
+      ]
+    }
+  ]
+}
