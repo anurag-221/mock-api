@@ -1,0 +1,88 @@
+{
+  "actionCards": [
+    {
+      "componentId": 1,
+      "componentName": "ACH_MEDICA",
+      "actionStatusId": 5,
+      "imageUrl": "https://mss-p-048-delivery.stylelabs.cloud/api/public/content/d4f8747af5a74b3d843c1f9506b597d4?v=85ad38bf",
+      "actionTitle": "Set up autopay",
+      "actionText": "Never miss a monthly payment when you use automatic bill pay. ",
+      "cta": "Set it up",
+      "ctaDestination": "NO CERTIFI SSO for DEV",
+      "dismissActionStatusId": 4,
+      "dismissText": "We'll wait to remind you about autopay again.",
+      "engageActionStatusId": 2,
+      "successText": "If you just set up autopay, your account will update soon.",
+      "failureText": "Your autopay setup didn't go through. Please try again.",
+      "target": "_blank"
+    },
+    {
+      "componentId": 2,
+      "componentName": "Download ID Card",
+      "actionStatusId": 5,
+      "imageUrl": "https://mss-p-048-delivery.stylelabs.cloud/api/public/content/4b18c86191a8443b88cce8a9fde22f55?v=20d52d5a ",
+      "actionTitle": "Your card, your way",
+      "actionText": "Get a digital version of your ID card so you always have it when you need it.",
+      "cta": "Download card",
+      "ctaDestination": "https://memberportal2-dev.mymedica.medica.com/home/id-card.html",
+      "dismissActionStatusId": 4,
+      "dismissText": "We'll remind you again in 90 days",
+      "engageActionStatusId": 1,
+      "successText": "Your ID card is now ready in Wallet.",
+      "failureText": "Don't see your download? Give it another try.",
+      "target": "_self"
+    },
+    {
+      "componentId": 126,
+      "componentName": "Virtuwell / Amwell_MEDICA",
+      "actionStatusId": 5,
+      "imageUrl": "https://mss-p-048-delivery.stylelabs.cloud/api/public/content/04988ed670414e3cb758f20c841d8cc0?v=e824f95f",
+      "actionTitle": "Care from anywhere",
+      "actionText": "With virtual care, you have 24/7 access to online care. No appointment needed.",
+      "cta": "Find care options",
+      "ctaDestination": "https://memberportal2-dev.mymedica.medica.com/home/my-plan-and-care/comprehensive-care/virtual-care.html",
+      "dismissActionStatusId": 4,
+      "dismissText": "We'll remind you of this virtual benefit again later. ",
+      "engageActionStatusId": 1,
+      "successText": "No waiting rooms, no hassle. Nice job using your virtual benefit.",
+      "failureText": "If the page won't load, wait and try again.",
+      "target": "_blank"
+    }
+  ],
+  "details": {
+    "firstName": "Georgeta",
+    "binderPayment": null,
+    "dueDate": null,
+    "planName": "Medica with CHI Health + AEE Bronze C PC NE",
+    "planId": "C00005_0169",
+    "productId": "CIFBNEFI01",
+    "productCd": "ICHI",
+    "customerPlanId": "C00005_0169",
+    "coverageStartDate": "2025-01-01",
+    "coverageEndDate": "2026-12-31",
+    "memberCoverageStatus": "1",
+    "isSubscriber": true,
+    "componentId": null,
+    "actionStatusId": null,
+    "cptCodes": [
+      
+    ]
+  },
+  "latestActionStatus": [
+    {
+      "componentId": 1,
+      "actionStatusId": 5,
+      "updatedDt": "2025-09-02T13:42:54.663"
+    },
+    {
+      "componentId": 2,
+      "actionStatusId": 5,
+      "updatedDt": "2025-10-08T23:51:57.01"
+    },
+    {
+      "componentId": 126,
+      "actionStatusId": 5,
+      "updatedDt": "2025-12-10T02:41:45.277"
+    }
+  ]
+}
