@@ -1,0 +1,206 @@
+{
+  "count": 1,
+  "next": 0,
+  "previous": 0,
+  "results": [
+    {
+      "id": "3089903529",
+      "policy_number": "3089903529",
+      "policy_status": "active",
+      "effective_date": "2026-01-01",
+      "termination_date": "2026-12-31",
+      "market_segment": "individual",
+      "cardId": "3089903529",
+      "group": {
+        "id": "C00001",
+        "number": "C00001",
+        "company_name": "Medica IFB ND"
+      },
+      "product_coverages": [
+        {
+          "product_coverage_id": "b17b0eeab7c40d7b3d2d1056ca85c36c",
+          "product_coverage_type": "medical",
+          "effective_date": "2025-08-01",
+          "termination_date": "2025-12-31",
+          "status_code": "inactive",
+          "status_display": "Inactive",
+          "plan_id": "MHP_CIFBNDFI03-HRCATE_C00001|2025",
+          "external_plan_id": "MHP_CIFBNDFI03-HRCATE_C00001",
+          "external_plan_name": "Essentia Choice Care Gold C PC ND",
+          "member_coverages": [
+            {
+              "member_coverage_id": "d91ae85e4d0ecb59e4b9c839d2e44bd5",
+              "effective_date": "2025-08-01",
+              "termination_date": "2025-12-31",
+              "member": {
+                "id": "MED000010053613",
+                "member_display_identifier": "3089903529",
+                "name": {
+                  "first_name": "Angelika",
+                  "middle_name": "",
+                  "last_name": "Leupold"
+                },
+                "status": "inactive",
+                "gender": "female",
+                "birth_date": "1999-04-29",
+                "relationship_to_subscriber": "self",
+                "subscriber_number": "308990352900",
+                "addresses": [
+                  {
+                    "address_type": "physical",
+                    "street_name_1": "29 PENINSULA DR",
+                    "street_name_2": "",
+                    "street_name_3": "",
+                    "city_name": "Fargo",
+                    "zip_code": "58104",
+                    "state": "ND",
+                    "county_name": "Cass"
+                  },
+                  {
+                    "address_type": "mailing",
+                    "street_name_1": "29 PENINSULA DR",
+                    "street_name_2": "",
+                    "street_name_3": "",
+                    "city_name": "Fargo",
+                    "zip_code": "58104",
+                    "state": "ND",
+                    "county_name": "Cass"
+                  }
+                ],
+                "phone_numbers": [
+                  {
+                    "id": "",
+                    "phone_number": "7631434817",
+                    "type": "home"
+                  }
+                ],
+                "email_address": "GraceG662@example.com",
+                "is_push_notification_enabled": false
+              }
+            }
+          ]
+        },
+        {
+          "product_coverage_id": "eeacb3d7ebd9132305078b78945f0826",
+          "product_coverage_type": "medical",
+          "effective_date": "2026-01-01",
+          "termination_date": "2026-12-31",
+          "status_code": "active",
+          "status_display": "Active",
+          "plan_id": "MHP_CIFBNDFI03-HRCATE_C00001|2026",
+          "external_plan_id": "MHP_CIFBNDFI03-HRCATE_C00001",
+          "external_plan_name": "Essentia Choice Care Gold C PC ND",
+          "member_coverages": [
+            {
+              "member_coverage_id": "6d05131efb6e51fc71c9ca1e4b6ae6b1",
+              "effective_date": "2026-01-01",
+              "termination_date": "2026-12-31",
+              "member": {
+                "id": "MED000010053613",
+                "member_display_identifier": "3089903529",
+                "name": {
+                  "first_name": "Angelika",
+                  "middle_name": "",
+                  "last_name": "Leupold"
+                },
+                "status": "active",
+                "gender": "female",
+                "birth_date": "1999-04-29",
+                "relationship_to_subscriber": "self",
+                "subscriber_number": "308990352900",
+                "addresses": [
+                  {
+                    "address_type": "physical",
+                    "street_name_1": "29 PENINSULA DR",
+                    "street_name_2": "",
+                    "street_name_3": "",
+                    "city_name": "Fargo",
+                    "zip_code": "58104",
+                    "state": "ND",
+                    "county_name": "Cass"
+                  },
+                  {
+                    "address_type": "mailing",
+                    "street_name_1": "29 PENINSULA DR",
+                    "street_name_2": "",
+                    "street_name_3": "",
+                    "city_name": "Fargo",
+                    "zip_code": "58104",
+                    "state": "ND",
+                    "county_name": "Cass"
+                  }
+                ],
+                "phone_numbers": [
+                  {
+                    "id": "",
+                    "phone_number": "7631434817",
+                    "type": "home"
+                  }
+                ],
+                "email_address": "GraceG662@example.com",
+                "is_push_notification_enabled": false
+              }
+            },
+            {
+              "member_coverage_id": "7757ff55d036f8ce21d6fd614ae42007",
+              "effective_date": "2026-02-01",
+              "termination_date": "2026-12-31",
+              "member": {
+                "id": "MED000010053615",
+                "member_display_identifier": "3089903529",
+                "name": {
+                  "first_name": "Chadrick",
+                  "middle_name": "",
+                  "last_name": "Leupold"
+                },
+                "status": "active",
+                "gender": "male",
+                "birth_date": "1995-04-03",
+                "relationship_to_subscriber": "spouse",
+                "subscriber_number": "308990352900",
+                "addresses": [
+                  {
+                    "address_type": "physical",
+                    "street_name_1": "29 PENINSULA DR",
+                    "street_name_2": "",
+                    "street_name_3": "",
+                    "city_name": "Fargo",
+                    "zip_code": "58104",
+                    "state": "ND",
+                    "county_name": "Cass"
+                  },
+                  {
+                    "address_type": "mailing",
+                    "street_name_1": "29 PENINSULA DR",
+                    "street_name_2": "",
+                    "street_name_3": "",
+                    "city_name": "Fargo",
+                    "zip_code": "58104",
+                    "state": "ND",
+                    "county_name": "Cass"
+                  }
+                ],
+                "phone_numbers": [
+                  {
+                    "id": "",
+                    "phone_number": "7631434817",
+                    "type": "home"
+                  }
+                ],
+                "email_address": "GraceG662@example.com",
+                "is_push_notification_enabled": false
+              }
+            }
+          ]
+        }
+      ],
+      "additional_identifiers": [
+        "IFB",
+        "PERSONALIZED_DASH",
+        "C00001",
+        "C00001_0042",
+        "CIFBNDFI03"
+      ]
+    }
+  ]
+}
