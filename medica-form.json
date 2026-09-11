@@ -1,0 +1,48 @@
+
+[
+  {
+    "productId": "MSP|180|966",
+    "lineOfBusiness": "CHA",
+    "groupId": "70101|MSP",
+    "requestType": "OUT_PATIENT",
+    "requestingProviderTins": [],
+    "performingProviderTins": [],
+    "requestedDate": "2026-09-10",
+    "appliedIgnoredMatchCriteria": {
+      "all": true,
+      "fields": [
+        "placeOfService",
+        "diagnosisCodes",
+        "memberAge",
+        "serviceTypeCode"
+      ]
+    },
+    "determinationResults": [
+      {
+        "procedureCode": "E2102",
+        "procedureCodeType": "HCPCS",
+        "procedureCodeDescription": "ADJUNCTIVE NONIMPLANTED CGM/RECEIVER",
+        "diagnosisCodes": [],
+        "coverageIndicator": "INDETERMINATE",
+        "authorizationRequirementIndicator": "REQUIRED",
+        "isAutoApproved": false,
+        "policyDocumentationLink": [
+          "https://medica-policy-documentation-link",
+          "https://www.cms.gov/medicare-coverage-database/search.aspx"
+        ],
+        "policyInformation": [
+          {
+            "policyName": "HOME CONTINUOUS GLUCOSE MONITORS",
+            "policyLink": "https://medica-policy-documentation-link",
+            "policyInstructions": "policy instructions"
+          },
+          {
+            "policyName": "Medicare Policies",
+            "policyLink": "https://www.cms.gov/medicare-coverage-database/search.aspx"
+          }
+        ],
+        "authorizationProcessor": "Medica"
+      }
+    ]
+  }
+]
