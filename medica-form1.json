@@ -5,7 +5,7 @@
     "groupId": "70101|MSP",
     "requestType": "OUT_PATIENT",
     "requestedDate": "2026-09-15",
-    "type":"member",
+    "userType":"member",
     "determinationResults": [
       {
         "procedureCode": "15825",
