@@ -67,6 +67,34 @@
           }
         ],
         "authorizationProcessor": "Medica"
+      },
+      {
+        "procedureCode": "81105",
+        "procedureCodeType": "CPT",
+        "procedureCodeDescription": "Gene analysis (Human Platelet Antigen 1) for common variant",
+        "diagnosisCodes": [],
+        "coverageIndicator": "COVERED",
+        "authorizationRequirementIndicator": "NOT_REQUIRED",
+        "isAutoApproved": true,
+        "policyInformation": [],
+        "authorizationProcessor": "Medica"
+      },
+      {
+        "procedureCode": "38209",
+        "procedureCodeType": "CPT",
+        "procedureCodeDescription": "Bone marrow or stem cell services/procedures",
+        "diagnosisCodes": [],
+        "coverageIndicator": "COVERED",
+        "authorizationRequirementIndicator": "NOT_REQUIRED",
+        "isAutoApproved": true,
+        "policyInformation": [
+          {
+            "policyName": "Clinical Trial Utilizing CAR-T Therapy, Bone Marrow or Stem Cell Transplant (PDF)",
+            "policyLink": "https://medica-policy-documentation-link",
+            "policyInstructions": "[Example: Prior authorization is not required for members under 18 years of age. For members age 18 years and older, prior authorization is required. Please review applicable policy guidelines for additional requirements and ensure all criteria are met prior to rendering services.]"
+          }
+        ],
+        "authorizationProcessor": "Medica"
       }
     ]
   }
