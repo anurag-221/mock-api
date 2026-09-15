@@ -1,99 +1,99 @@
 [
   {
-    productId: "MSP|180|966",
-    lineOfBusiness: "CHA",
-    groupId: "70101|MSP",
-    requestType: "OUT_PATIENT",
-    requestedDate: "2026-09-15",
-    determinationResults: [
+    "productId": "MSP|180|966",
+    "lineOfBusiness": "CHA",
+    "groupId": "70101|MSP",
+    "requestType": "OUT_PATIENT",
+    "requestedDate": "2026-09-15",
+    "determinationResults": [
       {
-        procedureCode: "15825",
-        procedureCodeType: "CPT",
-        procedureCodeDescription: "Removal of wrinkles and extra skin of neck",
-        diagnosisCodes: [],
-        coverageIndicator: "INDETERMINATE",
-        authorizationRequirementIndicator: "REQUIRED",
-        isAutoApproved: false,
-        policyInformation: [
+        "procedureCode": "15825",
+        "procedureCodeType": "CPT",
+        "procedureCodeDescription": "Removal of wrinkles and extra skin of neck",
+        "diagnosisCodes": [],
+        "coverageIndicator": "INDETERMINATE",
+        "authorizationRequirementIndicator": "REQUIRED",
+        "isAutoApproved": false,
+        "policyInformation": [
           {
-            policyName: "IV-123 Gender Affirming Procedures (PDF)",
-            policyLink: "https://medica-policy-documentation-link",
-            policyInstructions: "[Example: Prior authorization is not required for members under 18 years of age. For members age 18 years and older, prior authorization is required. Please review applicable policy guidelines for additional requirements and ensure all criteria are met prior to rendering services.]"
+            "policyName": "IV-123 Gender Affirming Procedures (PDF)",
+            "policyLink": "https://medica-policy-documentation-link",
+            "policyInstructions": "[Example: Prior authorization is not required for members under 18 years of age. For members age 18 years and older, prior authorization is required. Please review applicable policy guidelines for additional requirements and ensure all criteria are met prior to rendering services.]"
           },
           {
-            policyName: "IV-24 Panniculectomy/Excision of Redundant Skin or Tissue (PDF)",
-            policyLink: "https://medica-policy-documentation-link",
-            policyInstructions: "[Example: Prior authorization is not required for members under 18 years of age. For members age 18 years and older, prior authorization is required. Please review applicable policy guidelines for additional requirements and ensure all criteria are met prior to rendering services.]"
+            "policyName": "IV-24 Panniculectomy/Excision of Redundant Skin or Tissue (PDF)",
+            "policyLink": "https://medica-policy-documentation-link",
+            "policyInstructions": "[Example: Prior authorization is not required for members under 18 years of age. For members age 18 years and older, prior authorization is required. Please review applicable policy guidelines for additional requirements and ensure all criteria are met prior to rendering services.]"
           },
           {
-            policyName: "Medicare guideline page",
-            policyLink: "https://www.cms.gov/medicare-coverage-database/search.aspx",
-            policyInstructions: "[Example: Prior authorization is not required for members under 18 years of age. For members age 18 years and older, prior authorization is required. Please review applicable policy guidelines for additional requirements and ensure all criteria are met prior to rendering services.]"
+            "policyName": "Medicare guideline page",
+            "policyLink": "https://www.cms.gov/medicare-coverage-database/search.aspx",
+            "policyInstructions": "[Example: Prior authorization is not required for members under 18 years of age. For members age 18 years and older, prior authorization is required. Please review applicable policy guidelines for additional requirements and ensure all criteria are met prior to rendering services.]"
           }
         ],
-        authorizationProcessor: "Medica"
+        "authorizationProcessor": "Medica"
       },
       {
-        procedureCode: "19318",
-        procedureCodeType: "CPT",
-        procedureCodeDescription: "Total disc arthroplasty (artificial disc), anterior approach, including discectomy with end plate preparation (includes osteophytectomy for nerve root or spinal cord decompression and microdissection); single interspace, cervical",
-        diagnosisCodes: [],
-        coverageIndicator: "INDETERMINATE",
-        authorizationRequirementIndicator: "REQUIRED",
-        isAutoApproved: false,
-        policyInformation: [
+        "procedureCode": "19318",
+        "procedureCodeType": "CPT",
+        "procedureCodeDescription": "Total disc arthroplasty (artificial disc), anterior approach, including discectomy with end plate preparation (includes osteophytectomy for nerve root or spinal cord decompression and microdissection); single interspace, cervical",
+        "diagnosisCodes": [],
+        "coverageIndicator": "INDETERMINATE",
+        "authorizationRequirementIndicator": "REQUIRED",
+        "isAutoApproved": false,
+        "policyInformation": [
           {
-            policyName: "IV-123 Gender Affirming Procedures (PDF)",
-            policyLink: "https://medica-policy-documentation-link",
-            policyInstructions: "[Example: Prior authorization is not required for members under 18 years of age. For members age 18 years and older, prior authorization is required. Please review applicable policy guidelines for additional requirements and ensure all criteria are met prior to rendering services.]"
+            "policyName": "IV-123 Gender Affirming Procedures (PDF)",
+            "policyLink": "https://medica-policy-documentation-link",
+            "policyInstructions": "[Example: Prior authorization is not required for members under 18 years of age. For members age 18 years and older, prior authorization is required. Please review applicable policy guidelines for additional requirements and ensure all criteria are met prior to rendering services.]"
           }
         ],
-        authorizationProcessor: "Medica"
+        "authorizationProcessor": "Medica"
       },
       {
-        procedureCode: "99212",
-        procedureCodeType: "CPT",
-        procedureCodeDescription: "Established patient office or other outpatient visit with straightforward medical decision making, if using time, 10 minutes or more",
-        diagnosisCodes: [],
-        coverageIndicator: "INDETERMINATE",
-        authorizationRequirementIndicator: "CONDITIONAL",
-        isAutoApproved: false,
-        policyInformation: [
+        "procedureCode": "99212",
+        "procedureCodeType": "CPT",
+        "procedureCodeDescription": "Established patient office or other outpatient visit with straightforward medical decision making, if using time, 10 minutes or more",
+        "diagnosisCodes": [],
+        "coverageIndicator": "INDETERMINATE",
+        "authorizationRequirementIndicator": "CONDITIONAL",
+        "isAutoApproved": false,
+        "policyInformation": [
           {
-            policyName: "IV-123 Gender Affirming Procedures (PDF)",
-            policyLink: "https://medica-policy-documentation-link",
-            policyInstructions: "[Example: Prior authorization is not required for members under 18 years of age. For members age 18 years and older, prior authorization is required. Please review applicable policy guidelines for additional requirements and ensure all criteria are met prior to rendering services.]"
+            "policyName": "IV-123 Gender Affirming Procedures (PDF)",
+            "policyLink": "https://medica-policy-documentation-link",
+            "policyInstructions": "[Example: Prior authorization is not required for members under 18 years of age. For members age 18 years and older, prior authorization is required. Please review applicable policy guidelines for additional requirements and ensure all criteria are met prior to rendering services.]"
           }
         ],
-        authorizationProcessor: "Medica"
+        "authorizationProcessor": "Medica"
       },
       {
-        procedureCode: "81105",
-        procedureCodeType: "CPT",
-        procedureCodeDescription: "Gene analysis (Human Platelet Antigen 1) for common variant",
-        diagnosisCodes: [],
-        coverageIndicator: "COVERED",
-        authorizationRequirementIndicator: "NOT_REQUIRED",
-        isAutoApproved: true,
-        policyInformation: [],
-        authorizationProcessor: "Medica"
+        "procedureCode": "81105",
+        "procedureCodeType": "CPT",
+        "procedureCodeDescription": "Gene analysis (Human Platelet Antigen 1) for common variant",
+        "diagnosisCodes": [],
+        "coverageIndicator": "COVERED",
+        "authorizationRequirementIndicator": "NOT_REQUIRED",
+        "isAutoApproved": true,
+        "policyInformation": [],
+        "authorizationProcessor": "Medica"
       },
       {
-        procedureCode: "38209",
-        procedureCodeType: "CPT",
-        procedureCodeDescription: "Bone marrow or stem cell services/procedures",
-        diagnosisCodes: [],
-        coverageIndicator: "COVERED",
-        authorizationRequirementIndicator: "NOT_REQUIRED",
-        isAutoApproved: true,
-        policyInformation: [
+        "procedureCode": "38209",
+        "procedureCodeType": "CPT",
+        "procedureCodeDescription": "Bone marrow or stem cell services/procedures",
+        "diagnosisCodes": [],
+        "coverageIndicator": "COVERED",
+        "authorizationRequirementIndicator": "NOT_REQUIRED",
+        "isAutoApproved": true,
+        "policyInformation": [
           {
-            policyName: "Clinical Trial Utilizing CAR-T Therapy, Bone Marrow or Stem Cell Transplant (PDF)",
-            policyLink: "https://medica-policy-documentation-link",
-            policyInstructions: "[Example: Prior authorization is not required for members under 18 years of age. For members age 18 years and older, prior authorization is required. Please review applicable policy guidelines for additional requirements and ensure all criteria are met prior to rendering services.]"
+            "policyName": "Clinical Trial Utilizing CAR-T Therapy, Bone Marrow or Stem Cell Transplant (PDF)",
+            "policyLink": "https://medica-policy-documentation-link",
+            "policyInstructions": "[Example: Prior authorization is not required for members under 18 years of age. For members age 18 years and older, prior authorization is required. Please review applicable policy guidelines for additional requirements and ensure all criteria are met prior to rendering services.]"
           }
         ],
-        authorizationProcessor: "Medica"
+        "authorizationProcessor": "Medica"
       }
     ]
   }
