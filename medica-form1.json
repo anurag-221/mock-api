@@ -4,8 +4,7 @@
     "lineOfBusiness": "CHA",
     "groupId": "70101|MSP",
     "requestType": "OUT_PATIENT",
-    "requestedDate": "2026-09-22",
-    "userType":"member",
+    "requestedDate": "2026-09-24",
     "determinationResults": [
       {
         "procedureCode": "15825",
